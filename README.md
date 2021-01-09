@@ -1,7 +1,7 @@
 # KeePassWriter (kpx-writer-php)
 
 This is is a PHP wrapper around the KeePassXC-cli binary (supplied with KeePassXC) providing
-and API for creating KeePass databases.
+an API for creating KeePass databases.
 
 Cleartext secrets are never written to the filesystem by the library.
 
