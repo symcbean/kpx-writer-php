@@ -5,7 +5,7 @@ an API for creating KeePass databases.
 
 Cleartext secrets are never written to the filesystem by the library.
 
-Due to the complications arising from thie requirement, the library will only work on Linux/Unix/POSIX systems with the PCNTL ad POSIX extensions.
+Due to the complications arising from this requirement, the library will only work on Linux/Unix/POSIX systems with the PCNTL ad POSIX extensions.
 
 The wrapper is implemented as a single class - KeePassWriter. This exposes the following methods:
 
